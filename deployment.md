@@ -7,6 +7,6 @@ On heroku the language buildpack will be detected based on the language config f
 | Language | Config File |
 |..........|.............|
 | Javascript| package.json|
-| Runy | Genfile |
+| Ruby | Genfile |
 | Python | Requirements.txt |
 | Rust | cargo.toml|
